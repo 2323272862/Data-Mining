@@ -1,5 +1,5 @@
 # Data-Mining
-Introduction to Data Mining Midterm Project
+Introduction to Data Mining Midterm Project.
 This project is the midterm assignment for the Introduction to Data Mining course of the Information Engineering major at Xidian University.
 作业的要求如下
   1. 加载数据集，检查并报告各特征的数值缺失情况。然后，通过 Age = 2025-Year of manufacture 计算创建一个新的特征 Age（车龄），并移除原有的 Year of manufacture 列；
