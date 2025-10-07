@@ -35,21 +35,30 @@ pip install -r requirements.txt
 
 1. 确保已安装所有必要的依赖库
 2. 确保`car_sales_data.csv`文件与Python文件在同一目录下
-3. 单独运行每个Python文件：
+3. 单独运行每个Python文件,或者直接运行总文件firstquestion.py：
 
+若直接运行总文件
+```bash
+python firstquestion.py
+```
+若单独运行每个Python文件
 ```bash
 # 运行第一问
 python first.py
-
+```
+```bash
 # 运行第二问
 python second.py
-
+```
+```bash
 # 运行第三问
 python third.py
-
+```
+```bash
 # 运行第四问
 python fourth.py
-
+```
+```bash
 # 运行第五问
 python fifth.py
 ```
