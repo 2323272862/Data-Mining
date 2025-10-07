@@ -1,6 +1,5 @@
 # Data-Mining
 
-Introduction to Data Mining Midterm Project.  
 This project is the midterm assignment for the *Introduction to Data Mining* course of the Information Engineering major at Xidian University.  
 
 
