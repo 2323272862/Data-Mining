@@ -71,15 +71,15 @@ python question.py
 
 ### 第一问（first.py）
 - 加载汽车销售数据集，检查各特征的数值缺失情况
-- 创建新特征'Age'（车龄）：'Age = 2025 - Year of manufacture'
-- 移除原有的'Year of manufacture'列
-- 输出处理结果到'answer1.txt'文件
+- 创建新特征`Age`（车龄）：`Age = 2025 - Year of manufacture`
+- 移除原有的`Year of manufacture`列
+- 输出处理结果到`answer1.txt`文件
 
 ### 第二问（second.py）
 - 展示处理后数据集的前五行和描述性统计量
 - 统计并展示最常见的前 5 个汽车制造商及其数量
 - 可视化前 5 个常见汽车制造商的数量柱状图，并保存为 `top5_manufacturers.png`
-- 输出处理结果到'answer2.txt'文件
+- 输出处理结果到`answer2.txt`文件
 
 ### 第三问（third.py）
 - 使用直方图对汽车价格分布情况进行可视化展示
@@ -90,7 +90,7 @@ python question.py
 - 保存散点图为 `age_price_scatter.png`
 
 ### 第五问（fifth.py）
-- 计算数值型特征（Engine size, Mileage, Price, Age）之间的 'Spearman' 相关系数
+- 计算数值型特征（Engine size, Mileage, Price, Age）之间的 `Spearman`相关系数
 - 在终端输出相关系数矩阵并保存到 `spearman.txt`
 - 使用热力图可视化相关系数矩阵并保存为 `correlation_heatmap.png`
 
